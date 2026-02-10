@@ -97,7 +97,7 @@ define('FREE_SHIPPING_THRESHOLD', 500000); // ارسال رایگان بالای
 class Database {
     // تنظیمات دیتابیس
     private const DB_HOST = 'localhost';
-    private const DB_NAME = 'fashion_shop_db';
+    private const DB_NAME = 'iran';
     private const DB_USER = 'root';
     private const DB_PASS = '';
     private const DB_CHARSET = 'utf8mb4';
